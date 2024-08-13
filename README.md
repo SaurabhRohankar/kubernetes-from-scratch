@@ -1,4 +1,4 @@
-# kubernetes-from-scratch
+# Kubernetes From Scratch
 
 ## Introduction
 
